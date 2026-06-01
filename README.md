@@ -3,4 +3,7 @@
   <head>
     <title>hey this the code for frontend</title>
   </head>
+  <body>
+    <p> hi all </p>
+  </body>
 </html>
