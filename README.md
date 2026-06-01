@@ -1,5 +1,6 @@
 # FINAL_LAB
-CONTENT FOR FINAL LAB<BR>
-AUTHOUR: VRUSHABH SH
-hey this is vrushabh from cse "A"
-"ROYALL CHALLENGERS BANGALURU WON THE MATH OF IPL 2026!!!!!!"status
+<html>
+  <head>
+    <title>hey this the code for frontend</title>
+  </head>
+</html>
